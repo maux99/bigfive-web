@@ -20,7 +20,8 @@
     "test": "yarn lint && ava -v",
     "debug-build": "nuxt build -a",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore ."
+    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore .",
+    "heroku-postbuild":"npm run build"
   },
   "dependencies": {
     "@aceforth/nuxt-optimized-images": "1.4.0",
