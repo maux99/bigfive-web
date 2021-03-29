@@ -8,72 +8,24 @@
       >
         <v-row class="footer-wrapper pl-0">
           <v-col class="footer-heading">
-            SAY<br>HALLO
-          </v-col>
-          <v-col
-            cols="12"
-            class="pt-0"
-          >
-            <a
-              href="https://www.facebook.com/rubynorno/"
-              aria-label="Gå til facebook"
-            >
-              <v-icon large>{{ mdiFacebook }}</v-icon>
-            </a>
-
-            <v-divider
-              inset
-              vertical
-              class="mx-1"
-            />
-
-            <a
-              href="https://github.com/rubynor"
-              aria-label="Gå til github"
-            >
-              <v-icon large>{{ mdiGithub }}</v-icon>
-            </a>
-
-            <v-divider
-              inset
-              vertical
-              class="mx-1"
-            />
-
-            <a
-              href="https://twitter.com/rubynor"
-              aria-label="Gå til twitter"
-            >
-              <v-icon large>{{ mdiTwitter }}</v-icon>
-            </a>
-
-            <v-divider
-              inset
-              vertical
-              class="mx-1"
-            />
-
-            <a
-              href="https://no.linkedin.com/company/rubynor-as"
-              aria-label="Gå til linkedIn"
-            >
-              <v-icon large>{{ mdiLinkedin }}</v-icon>
-            </a>
+            <v-img
+                alt="BigFive logo"
+                :src="require('@/assets/footer.png')"
+                width="200"
+              />
           </v-col>
           <v-col
             cols="12"
             class="footer-about"
           >
-            Rubynor<br>
-            Bedriftsveien 64<br>
-            3735 Skien, Norway<br><br>
-            bigfive-test@rubynor.com<br>
+            <br>
+            info@talent-hub.it<br>
           </v-col>
           <v-col
             class="footer-text"
             cols="12"
           >
-            © {{ new Date().getFullYear() }} — Rubynor - all rights reserved.
+            © {{ new Date().getFullYear() }} — all rights reserved.
           </v-col>
         </v-row>
       </v-col>
@@ -81,11 +33,7 @@
         <h3 class="mb-2">
           Having questions about or problems with the site?
         </h3>
-        Please read the <nuxt-link
-          :to="localePath('faq')"
-        >
-          <a @click="logClick('FAQ')">FAQ</a>
-        </nuxt-link>.
+        Contact us: info@talent-hub.it.
       </v-col>
     </v-row>
   </v-footer>

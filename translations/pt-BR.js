@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Traduzido',
-        text: 'Traduzido para mais de 20 idiomas. Ajude <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">aqui</a>!'
+        text: 'Traduzido para mais de 20 idiomas.'
       }
     },
     description: {
-      top: 'Aprenda a se conhecer melhor com um teste de personalidade gratuito e de código aberto.',
+      top: 'Conheça-se melhor com um teste de personalidade gratuito e internacionalmente reconhecido.',
       subtop: 'O',
       subtop2: ' é o modelo psicológico mais validado cientificamente e confiável para medir a personalidade.',
       reference: `Os testes e a avaliação deste site são coletados de
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 inventário é de <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'O teste a seguir contém 120 questões que levam cerca de 10 minutos para serem concluídas.',
+      info: 'O teste a seguir contém 120 perguntas que levam aproximadamente 10 minutos para serem concluídas.',
       result: 'Depois de concluir o teste, você receberá um relatório de personalidade detalhado nos seguintes domínios:',
       tests_taken: 'testes feitos até agora'
     }

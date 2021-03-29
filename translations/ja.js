@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: '翻訳済み',
-        text: '20以上の言語に翻訳されています。 <a href="https://b5.translations.alheimsins.net/" rel="noreferrer"target="blank">こちら</a>をご覧ください。'
+        text: '20以上の言語に翻訳されています。'
       }
     },
     description: {
-      top: '無料のオープンソースの性格検査で自分自身をよりよく知ることを学びましょう。',
+      top: '無料で国際的に認められた性格検査で自分自身をよりよく知るようになります。',
       subtop: 'ザ・',
       subtop2: ' は、人格を測定するための最も科学的に検証された信頼できる心理モデルです。',
       reference: `Tests and evaluation for this site is gathered from
   <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
   inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: '次のテストには120の質問が含まれており、完了するまでに約10分かかると推定されています。',
+      info: '次のテストには120の質問が含まれており、完了するまでに約10分かかると推定されていま。',
       result: 'テストが完了すると、次のドメインで詳細なパーソナリティレポートが届きます。',
       tests_taken: 'これまでに行われたテスト'
     }

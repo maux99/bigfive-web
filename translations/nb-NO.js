@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Oversettelser',
-        text: 'Testen er oversatt til mer enn 20 språk. Hjelp til <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">her</a>!'
+        text: 'Testen er oversatt til mer enn 20 språk.'
       }
     },
     description: {
-      top: 'Forstå deg selv og andre bedre med en gratis, open-source personlighetstest.',
+      top: 'Bli bedre kjent med deg selv med en gratis og internasjonalt anerkjent personlighetstest.',
       subtop: '',
       subtop2: ' er en vitenskapelig og troverdig psykologisk modell for å måle personlighet.',
       reference: `Tester og evalueringer for bigfive-test.com er hentet fra
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 innholdet er fra <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'Testen som følger har 120 spørsmål og estimert tidsbruk er 10 minutter.',
+      info: 'Følgende test inneholder 120 spørsmål som det anslås å ta omtrent 10 minutter å fullføre.',
       result: 'Etter at testen er gjennomført vil du bli presentert en detaljert personlighetsrapport innen følgende domener:',
       tests_taken: 'tester utført så langt'
     }

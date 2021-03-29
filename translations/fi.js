@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Käännetty',
-        text: 'Käännetty yli 20 kielelle. Auttaa <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">tässä</a>!'
+        text: 'Käännetty yli 20 kielelle.'
       }
     },
     description: {
-      top: 'Opi tuntemaan itsesi paremmin ilmaisen, avoimen lähdekoodin persoonallisuustestin avulla.',
+      top: 'Opi tuntemaan itsesi paremmin ilmaisella ja kansainvälisesti tunnustetulla persoonallisuustestillä.',
       subtop: 'The',
       subtop2: ' on tieteellisesti validoitu ja luotettava psykologinen malli persoonallisuuden mittaamiseksi.',
       reference: `Tämän sivuston testit ja arvioinnit on kerätty osoitteesta
   <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
   varasto on peräisin <i>Johnsonin (2014) 120 nimikkeen IPIP NEO-PI-R</i>.`,
-      info: 'Seuraava testi sisältää 120 kysymystä, joiden suorittamisen arvioidaan vievän noin 10 minuuttia.',
+      info: 'Seuraava testi sisältää 120 kysymystä, joiden suorittamisen arvioidaan kestävän noin 10 minuuttia.',
       result: 'Testin suorittamisen jälkeen saat yksityiskohtaisen persoonallisuusraportin seuraavista verkkotunnuksista:',
       tests_taken: 'toistaiseksi tehdyt testit'
     }

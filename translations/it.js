@@ -8,7 +8,7 @@ export default {
       title: 'Test dei tratti della personalità BigFive open-source gratuito',
       description: 'Fai un test della personalità Big Five gratuito e open source. Impara a conoscere i tratti della tua personalità e confrontati con il tuo partner, colleghi, amici o familiari.'
     },
-    title: 'Prova di personalità Big Five',
+    title: 'Test di personalità Big Five',
     call_to_action: 'Fai subito il test gratuito',
     no_registration: '* Nessuna registrazione richiesta',
     tests_taken: 'Oltre 700.000 persone hanno sostenuto il test',
@@ -34,11 +34,11 @@ export default {
       },
       translated: {
         title: 'Tradotto',
-        text: 'Tradotto in oltre 20 lingue. Aiuta nella traduzione <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">qui</a>!'
+        text: 'Tradotto in oltre 20 lingue.'
       }
     },
     description: {
-      top: 'Impara a conoscerti meglio con un test della personalità gratuito e open source.',
+      top: 'Impara a conoscerti meglio con un test della personalità gratuito e riconosciuto a livello internazionale.',
       subtop: 'Il',
       subtop2: ' è il modello psicologico più scientificamente convalidato e affidabile per misurare la personalità.',
       reference: `I test e le valutazioni per questo sito sono raccolti da

@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Übersetzung',
-        text: 'Übersetzt in über 20 Sprachen. Hilf mit <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">hier</a>!'
+        text: 'Übersetzt in über 20 Sprachen'
       }
     },
     description: {
-      top: 'Lernen Sie sich besser kennen mithilfe dieses kostenlosen, open-source Persönlichkeitstests.',
+      top: 'Leer jezelf beter kennen met een gratis en internationaal erkende persoonlijkheidstest.',
       subtop: 'Der',
       subtop2: ' ist das am meisten wissenschaftlich validierte und zuverlässigste psychologische Modell zur Persönlichkeitsmessung.',
       reference: `Die Tests und Auswertungen für diese Seite stammen von
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'Der folgende Test umfasst 120 Fragen und beansprucht schätzungsweise 10 Minuten Ihrer Zeit.',
+      info: 'De volgende test bevat 120 vragen die naar schatting ongeveer 10 minuten in beslag nemen.',
       result: 'Nach dem vervollständigen des Tests erhalten Sie eine detaillierte  Beschreibung Ihrer Persönlichkeit in den folgenden Dimensionen:',
       tests_taken: 'Bisher gemachte Tests'
     }

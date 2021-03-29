@@ -34,7 +34,7 @@ export default {
       },
       translated: {
         title: 'Translated',
-        text: 'Þýtt á yfir 20 tungumál. Hjálpaðu <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank"> hér </a>!'
+        text: 'Þýtt á yfir 20 tungumál.'
       }
     },
     description: {
@@ -44,7 +44,7 @@ export default {
       reference: `Próf og mat fyrir þessa síðu er safnað saman frá
         <a href="http://ipip.ori.org" rel="noopener" target="_blank"> ipip.ori.org </a>,
         birgðir eru frá <i> Johnson (2014) 120 hlutum IPIP NEO-PI-R </i>.`,
-      info: 'Eftirfarandi próf inniheldur 120 spurningar sem áætlað er að taki þig um það bil 10 mínútur.',
+      info: 'Eftirfarandi próf inniheldur 120 spurningar sem áætlað er að taki um það bil 10 mínútur.',
       result: 'Eftir að prófinu lýkur færðu nákvæma persónuleikaskýrslu á eftirfarandi sviðum:',
       tests_taken: 'próf sem tekin hafa verið hingað til'
     }

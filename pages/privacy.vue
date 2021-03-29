@@ -62,7 +62,7 @@
     <h2>How do we store your data?</h2>
     <h2>How to contact us?</h2>
     If you have any questions about this privacy policy, please <a
-      href="mailto:bigfive-test@rubynor.com"
+      href="mailto:info@talent-hub.it"
       rel="noopener noreferrer"
       target="_blank"
     >contact</a> us.

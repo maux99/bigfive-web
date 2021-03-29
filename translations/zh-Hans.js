@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: '已翻译',
-        text: '翻译成 20 多种语言。帮助 <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">here</a>!'
+        text: '翻译成 20 多种语言。'
       }
     },
     description: {
-      top: '通过免费的开源个性测试，学会更好地了解自己。',
+      top: '通过免费的国际认可的性格测验，更好地了解自己。',
       subtop: '的',
       subtop2: ' 是衡量人格最科学、最可靠的心理模型。',
       reference: `此站点的测试和评估来自
   <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
   inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: '以下测试包含 120 个问题，估计需要大约 10 分钟才能完成。',
+      info: '以下测试包含120个问题，估计需要大约10分钟才能完成。',
       result: 'After you have completed the test you will receive a detailed personality report in the following domains:',
       tests_taken: 'tests taken so far'
     }

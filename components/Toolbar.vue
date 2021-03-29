@@ -18,7 +18,7 @@
                 contain
                 :src="logoSrc"
                 transition="fade-transition"
-                width="40"
+                width="170"
               />
             </transition>
           </nuxt-link>
@@ -89,7 +89,7 @@ export default {
     const icons = { mdiMenu }
     return {
       drawer: false,
-      logoSrc: require('@/assets/logo.svg'),
+      logoSrc: require('@/assets/logo.png'),
       icons
     }
   },
@@ -100,8 +100,7 @@ export default {
         { title: this.$t('toolbar.compare'), url: '/compare' },
         { title: this.$t('toolbar.articles'), url: '/articles' },
         { title: this.$t('toolbar.privacy'), url: '/privacy' },
-        { title: this.$t('toolbar.about'), url: '/about' },
-        { title: 'FAQ', url: '/faq' }
+        { title: this.$t('toolbar.about'), url: '/about' }
       ]
     }
   }

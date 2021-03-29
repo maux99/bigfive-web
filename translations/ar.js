@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'مترجم',
-        text: 'الاختبار مترجم إلى أكثر من ٢٠ لغة. بإمكانك المساعدة <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">here</a>!'
+        text: 'الاختبار مترجم إلى أكثر من ٢٠ لغة. بإمكانك المساعدة'
       }
     },
     description: {
-      top: 'تعرّف على نفسك أكثر عن طريق هذا الاختبار المجاني ومفتوح المصدر',
+      top: 'تعرف على نفسك بشكل أفضل من خلال اختبار شخصية مجاني ومعترف به دوليًا.',
       subtop: 'The',
       subtop2: ' is the most scientifically validated and reliable psychological model to measure personality.',
       reference: `Tests and evaluation for this site is gathered from
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'الاختبار يحتوي على ١٢٠ سؤال وسيستغرق منك إتمامه حوالي ١٠ دقائق',
+      info: 'يحتوي الاختبار التالي على 120 سؤالاً والتي من المقدر أن تستغرق حوالي 10 دقائق لإكمالها',
       result: 'After you have completed the test you will receive a detailed personality report in the following domains:',
       tests_taken: 'tests taken so far'
     }

@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Przetłumaczony',
-        text: 'Przetłumaczony na ponad 20 języków. Pomóż <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">tutaj</a>!'
+        text: 'Przetłumaczony na ponad 20 języków.'
       }
     },
     description: {
-      top: 'Poznaj siebie dzięki darmowemu, open-source\'owemu testowi osobowości.',
+      top: 'Poznaj lepiej siebie dzięki bezpłatnemu i uznanemu na całym świecie testowi osobowości.',
       subtop: '',
       subtop2: 'jest najbardziej wiarygodnym i naukowo potwierdzonym modelem psychologicznym opisującym osobowość.',
       reference: `Testy i ocena użyte na tej stronie pochodzą z  
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'Następujący test zawiera 120 pytań. Odpowiedź na wszystkie zajmuje ok. 10 minut.',
+      info: 'Poniższy test zawiera 120 pytań, których wypełnienie szacuje się na około 10 minut.',
       result: 'Kiedy wypełnisz test, otrzymasz szczegółowy opis Twojej osobowości obejmujący pięć czynników:',
       tests_taken: 'dotychczasowe testy'
     }

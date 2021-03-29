@@ -34,17 +34,17 @@ export default {
       },
       translated: {
         title: 'Diterjemahkan',
-        text: 'Diterjemahkan ke lebih dari 20 bahasa. Membantu <a href="https://b5.translations.alheimsins.net/" rel="noreferrer" target="blank">sini</a>!'
+        text: 'Diterjemahkan ke lebih dari 20 bahasa.'
       }
     },
     description: {
-      top: 'Belajar mengenal diri Anda lebih baik dengan tes kepribadian sumber terbuka gratis.',
+      top: 'Kenali diri Anda lebih baik dengan tes kepribadian yang gratis dan diakui secara internasional.',
       subtop: 'Itu',
       subtop2: ' adalah model psikologis yang paling tervalidasi secara ilmiah dan dapat diandalkan untuk mengukur kepribadian.',
       reference: `Tes dan evaluasi untuk situs ini dikumpulkan dari
   <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
   inventaris berasal<i>Johnson (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'Tes berikut berisi 120 soal yang diperkirakan membutuhkan waktu sekitar 10 menit untuk diselesaikan.',
+      info: 'Tes berikut berisi 120 pertanyaan yang diperkirakan membutuhkan waktu sekitar 10 menit untuk menyelesaikannya.',
       result: 'Setelah Anda menyelesaikan tes, Anda akan menerima laporan kepribadian terperinci di domain berikut: ',
       tests_taken: 'tes yang dilakukan sejauh ini'
     }
