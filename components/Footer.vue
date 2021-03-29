@@ -19,7 +19,12 @@
             class="footer-about"
           >
             <br>
-            info@talent-hub.it<br>
+            <a
+      href="mailto:info@talent-hub.it"
+      rel="noopener noreferrer"
+      target="_blank"
+    >info@talent-hub.it</a>
+            <br>
           </v-col>
           <v-col
             class="footer-text"
@@ -33,7 +38,11 @@
         <h3 class="mb-2">
           Having questions about or problems with the site?
         </h3>
-        Contact us: info@talent-hub.it.
+        Contact us: <a
+      href="mailto:info@talent-hub.it"
+      rel="noopener noreferrer"
+      target="_blank"
+    >info@talent-hub.it</a>
       </v-col>
     </v-row>
   </v-footer>
