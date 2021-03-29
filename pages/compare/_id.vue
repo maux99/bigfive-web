@@ -52,7 +52,7 @@ export default {
       // Twitter Card
       { name: 'twitter:card', content: 'summary' },
       { name: 'twitter:site', content: '@maccyber' },
-      { name: 'twitter:title', content: 'Free open-source BigFive personality traits test' },
+      { name: 'twitter:title', content: 'Big Five personality traits test' },
       { name: 'twitter:description', content: 'See our personality comparison in the following five domains: Neuroticism, Openness To Experience, Conscientiousness, Extraversion, Agreeableness' },
       { name: 'twitter:image', content: 'https://bigfive-test.com/icon.png' },
       { name: 'twitter:image:alt', content: 'BigFive logo' }
