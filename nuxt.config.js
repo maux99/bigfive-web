@@ -4,7 +4,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    titleTemplate: '%s - Big Five',
+    titleTemplate: 'Big Five personality traits test',
     title: 'Big Five personality traits test',
     meta: [
       { charset: 'utf-8' },
