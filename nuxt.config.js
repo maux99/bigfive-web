@@ -5,7 +5,7 @@ export default {
   */
   head: {
     titleTemplate: '%s - Big Five',
-    title: 'Free open-source BigFive personality traits test',
+    title: 'Big Five personality traits test',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
