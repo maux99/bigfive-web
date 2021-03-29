@@ -5,8 +5,8 @@ export default {
   },
   frontpage: {
     seo: {
-      title: 'Test dei tratti della personalità BigFive open-source gratuito',
-      description: 'Fai un test della personalità Big Five gratuito e open source. Impara a conoscere i tratti della tua personalità e confrontati con il tuo partner, colleghi, amici o familiari.'
+      title: 'Test dei tratti della personalità BigFive',
+      description: 'Fai un test della personalità Big Five gratuito. Impara a conoscere i tratti della tua personalità e confrontati con il tuo partner, colleghi, amici o familiari.'
     },
     title: 'Test di personalità Big Five',
     call_to_action: 'Fai subito il test gratuito',
